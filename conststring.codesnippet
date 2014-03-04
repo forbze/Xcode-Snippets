@@ -9,10 +9,7 @@
 		<string>TopLevel</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>//move to .h
-extern NSString * const k&lt;#Constant#&gt;;
-
-NSString * const k&lt;#Constant#&gt; = @"&lt;#ConstantString#&gt;";</string>
+	<string>NSString * const k&lt;#Constant#&gt; = @"&lt;#ConstantString#&gt;";</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>9DAC0072-1414-45DB-B319-4F56FE628C36</string>
 	<key>IDECodeSnippetLanguage</key>

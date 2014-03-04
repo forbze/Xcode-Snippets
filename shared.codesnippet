@@ -9,7 +9,8 @@
 		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>+ (&lt;#class#&gt; *)shared&lt;#name#&gt; {
+	<string>+ (instancetype)shared&lt;#name#&gt;
+{
     static &lt;#class#&gt; *_shared&lt;#name#&gt; = nil;
     static dispatch_once_t onceToken;
     dispatch_once(&amp;onceToken, ^{
@@ -30,6 +31,6 @@
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>0</integer>
+	<integer>2</integer>
 </dict>
 </plist>
