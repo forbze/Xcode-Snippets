@@ -45,7 +45,7 @@
 	<key>IDECodeSnippetPlatformFamily</key>
 	<string>iphoneos</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>Placeholders for the core table view data source methods</string>
+	<string>Placeholders for the core table view data source methods [objc]</string>
 	<key>IDECodeSnippetTitle</key>
 	<string>UITableViewDataSource</string>
 	<key>IDECodeSnippetUserSnippet</key>

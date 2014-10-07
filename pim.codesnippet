@@ -9,14 +9,14 @@
 		<string>Preprocessor</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>#import &quot;&lt;#header#&gt;&quot;
+	<string>#import "&lt;#header#&gt;"
 </string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>27EF389A-0089-432D-AAEF-886AC105BE09</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>#Import header</string>
+	<string>#Import header [objc]</string>
 	<key>IDECodeSnippetTitle</key>
 	<string>Import</string>
 	<key>IDECodeSnippetUserSnippet</key>

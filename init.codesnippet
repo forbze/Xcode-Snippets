@@ -23,7 +23,7 @@ return self;
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>Designated incantation for your designated initializers</string>
+	<string>Designated incantation for your designated initializers [objc]</string>
 	<key>IDECodeSnippetTitle</key>
 	<string>init</string>
 	<key>IDECodeSnippetUserSnippet</key>

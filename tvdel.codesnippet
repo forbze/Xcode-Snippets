@@ -23,7 +23,7 @@
 	<key>IDECodeSnippetPlatformFamily</key>
 	<string>iphoneos</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>Placeholders for the core table view delegate methods</string>
+	<string>Placeholders for the core table view delegate methods [objc]</string>
 	<key>IDECodeSnippetTitle</key>
 	<string>UITableViewDelegate</string>
 	<key>IDECodeSnippetUserSnippet</key>

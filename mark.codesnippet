@@ -6,9 +6,9 @@
 	<string>mark</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>ClassImplementation</string>
 		<string>ClassInterfaceMethods</string>
 		<string>TopLevel</string>
+		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>#pragma mark - &lt;#Section#&gt;
@@ -18,7 +18,7 @@
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>Dividers and labels to organize your code into sections</string>
+	<string>Dividers and labels to organize your code into sections [objc]</string>
 	<key>IDECodeSnippetTitle</key>
 	<string>#pragma Mark</string>
 	<key>IDECodeSnippetUserSnippet</key>

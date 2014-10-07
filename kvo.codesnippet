@@ -19,7 +19,7 @@
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>Use when overriding @synthesized property setter methods</string>
+	<string>Use when overriding @synthesized property setter methods [objc]</string>
 	<key>IDECodeSnippetTitle</key>
 	<string>KVO Setter</string>
 	<key>IDECodeSnippetUserSnippet</key>

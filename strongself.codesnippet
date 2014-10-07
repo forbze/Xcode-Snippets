@@ -16,7 +16,7 @@
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>Declare strong reference to weak reference</string>
+	<string>Declare strong reference to weak reference [objc]</string>
 	<key>IDECodeSnippetTitle</key>
 	<string>__strong self</string>
 	<key>IDECodeSnippetUserSnippet</key>

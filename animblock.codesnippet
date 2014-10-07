@@ -18,7 +18,7 @@
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>Use a block to animate values</string>
+	<string>Use a block to animate values [objc]</string>
 	<key>IDECodeSnippetTitle</key>
 	<string>Animation Block</string>
 	<key>IDECodeSnippetUserSnippet</key>

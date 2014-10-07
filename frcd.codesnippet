@@ -66,7 +66,7 @@
 	<key>IDECodeSnippetPlatformFamily</key>
 	<string>iphoneos</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>Placeholders for the fetched results controller delegate methods</string>
+	<string>Placeholders for the fetched results controller delegate methods [objc]</string>
 	<key>IDECodeSnippetTitle</key>
 	<string>NSFetchedResultsControllerDelegate</string>
 	<key>IDECodeSnippetUserSnippet</key>
