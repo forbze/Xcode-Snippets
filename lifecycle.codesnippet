@@ -47,7 +47,7 @@
 	<key>IDECodeSnippetPlatformFamily</key>
 	<string>iphoneos</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>Placeholders for all of the view controller lifecycle methods</string>
+	<string>Placeholders for all of the view controller lifecycle methods [objc]</string>
 	<key>IDECodeSnippetTitle</key>
 	<string>UIViewController Lifecycle</string>
 	<key>IDECodeSnippetUserSnippet</key>

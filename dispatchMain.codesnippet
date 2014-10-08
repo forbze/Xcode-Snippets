@@ -3,25 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>kvo</string>
+	<string>dispatchMain</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>CodeBlock</string>
+		<string>CodeExpression</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>[self willChangeValueForKey:@"&lt;#ivar#&gt;"];
-[&lt;#ivar#&gt; autorelease];
-&lt;#ivar#&gt; = [&lt;#newValue#&gt; retain];
-[self didChangeValueForKey:@"&lt;#ivar#&gt;"];
+	<string>dispatch_async(dispatch_get_main_queue(), ^(void) {
+    &lt;#code#&gt;
+});
 </string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>ED5CBC21-A815-4A52-A8D5-DE533A98555F</string>
+	<string>dispatchMain</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>Use when overriding @synthesized property setter methods [objc]</string>
+	<string>Dispatch a code block to the main thread [objc]</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>KVO Setter</string>
+	<string>Dispatch to Main Thread</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

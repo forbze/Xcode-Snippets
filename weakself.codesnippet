@@ -9,14 +9,14 @@
 		<string>CodeBlock</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>__weak __typeof(&amp;*self)weakSelf = self;
+	<string>__weak typeof(self)weakSelf = self;
 </string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>F0F0620F-AEAE-472E-8D7F-0C91B8F6DC35</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>Declare weak reference to self</string>
+	<string>Declare weak reference to self [objc]</string>
 	<key>IDECodeSnippetTitle</key>
 	<string>__weak self</string>
 	<key>IDECodeSnippetUserSnippet</key>
