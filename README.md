@@ -5,6 +5,7 @@ A bunch of Objective-C code snippets [originally by Mattt Thompson](https://gith
 ## Using Snippets
 
 ```bash
+mkdir ~/Library/Developer/Xcode/UserData/CodeSnippets/
 cd ~/Library/Developer/Xcode/UserData/CodeSnippets/
 git clone git@github.com:sforbes/Xcode-Snippets.git .
 ```
